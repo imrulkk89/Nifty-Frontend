@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nifty-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/nifty-frontend/static/js/main.b70d435b.js",
+    "static/js/787.2a5cd397.chunk.js": "/nifty-frontend/static/js/787.2a5cd397.chunk.js",
+    "index.html": "/nifty-frontend/index.html",
+    "main.e6c13ad2.css.map": "/nifty-frontend/static/css/main.e6c13ad2.css.map",
+    "main.b70d435b.js.map": "/nifty-frontend/static/js/main.b70d435b.js.map",
+    "787.2a5cd397.chunk.js.map": "/nifty-frontend/static/js/787.2a5cd397.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b70d435b.js"
+  ]
+}
